@@ -40,4 +40,4 @@ jobs:
           app-name: 'fa-bm-dev'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF6A3A428FA04E3299409990E36BFFA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_171628D6F4A34B71B7C680362F6DBF01 }}
